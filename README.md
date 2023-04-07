@@ -6,3 +6,4 @@ If you are a student, refer to your instructor's directions for how to import th
 
 If you are an instructor, you should have admin rights to this repo such that you may push edits to the notebooks. 
 
+This repo is a fork of the original repo where some changes are made from Tiffany Huang and Beth Davis.
